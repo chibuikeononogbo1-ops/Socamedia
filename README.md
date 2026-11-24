@@ -69,7 +69,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Soca Media
 
-A full stack social media web application built for seamless online connection, content sharing, and real-time interaction.
+A full stack laravel social media web application built for seamless online connection, content sharing, and real-time interaction.
 
 <img src="Home page (2).png" alt="Soca Home Page (2)">
 <img src="profile page.png" alt="Soca profile Page">
